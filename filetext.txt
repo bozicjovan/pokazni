@@ -1,3 +1,5 @@
 Prvi tekst
 Tekst na masteru
 Dodat na masteru
+Na novoj grani
+
