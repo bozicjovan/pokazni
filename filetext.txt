@@ -1,5 +1,6 @@
 Prvi tekst
 Tekst na masteru
 Dodat na masteru
+Novi tekst na mesteru
+Nesto na kraju za pull request
 Na novoj grani
-
